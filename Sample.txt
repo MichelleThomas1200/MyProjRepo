@@ -1,1 +1,4 @@
 This is a SAMPLE file.
+
+Bazinga!
+This file is edited in the cloned folder
